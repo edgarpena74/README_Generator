@@ -9,9 +9,9 @@ ${data.description}
 * [Installation Instructions](#Installation_Instructions)
 * [usage Information](#Usage_Information)
 * [Tests](#Tests)
-* [Questions](#questions)
-* [License](#license)
-* [Contributers](#contributing)
+* [Questions](#Questions)
+* [License](#License)
+* [Contributers](#contributers)
 
 
 ## Installation_Instructions
