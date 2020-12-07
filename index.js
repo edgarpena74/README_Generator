@@ -30,11 +30,31 @@ const questions = [
         name:"contributing",
         message: "contributing:"
     },
-    // {
-    //     type:"list",
-    //     name:"License",
-    //     message: "app Licenses:"
-    // }
+    {
+        type:"input",
+        name:"test",
+        message: "Tests:"
+    },
+    {
+        type:"input",
+        name:"questions",
+        message: "Enter GitHub username:"
+    },
+    {
+        type:"input",
+        name:"email",
+        message: "Enter email:"
+    },
+    {
+        type:"input",
+        name:"installation",
+        message: "Installation:"
+    },
+    {
+        type:"input",
+        name:"usage",
+        message: "Usage:"
+    }
 
 
 

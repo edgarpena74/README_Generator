@@ -6,8 +6,26 @@ ${data.license === "None" ? "": `![GitHub license](https://img.shields.io/badge/
 ${data.description}
 
 ## Table of Contents
+* [Installation Instructions](#Installation_Instructions)
+* [usage Information](#Usage_Information)
+* [Tests](#Tests)
+* [Questions](#questions)
 * [License](#license)
 * [Contributers](#contributing)
+
+
+## Installation_Instructions
+${data.installation}
+
+## Usage_Information
+${data.usage}
+
+## Tests
+${data.test}
+
+## Questions
+${data.questions}
+${data.email}
 
 ## License
 ${data.license}
