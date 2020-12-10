@@ -10,7 +10,7 @@ This is an application that allows the user to generate a README.md file within 
 
 - [Installation Instructions](#Installation_Instructions)
 - [usage Information](#Usage_Information)
-- [Tests](#Tests)
+- [Demo](#Demo)
 - [Questions](#Questions)
 - [License](#License)
 - [Contributers](#contributers)
@@ -23,7 +23,7 @@ Open the project in Visual Studio Code. Then open a terminal to run "node index.
 
 After running "node index.js" enter information for each section of the README.
 
-## Tests
+## Demo
 
 nonde
 
