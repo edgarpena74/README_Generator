@@ -13,20 +13,20 @@ undefined
 
 
 ## Installation_Instructions
-adsf
+enter installation instructions
 
 ## Usage_Information
-adsf
+enter how one would use the project
 
 ## Tests
-asdf
+enter any tests done on the project
 
 ## Questions
-dsfa
-fasd
+user123
+email@gmail.com
 
 ## License
 MIT
 
 ## Contributers
-asdfa
+enter the contributers

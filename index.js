@@ -4,7 +4,6 @@ const inquirer = require("inquirer");
 //fs is file system
 const fs = require("fs");
 const path = require("path");
-const { join } = require("path");
 const generateMarkdown = require("./utils/generateMarkdown");
 const Choices = require("inquirer/lib/objects/choices");
 // array of questions for user
