@@ -25,11 +25,10 @@ After running "node index.js" enter information for each section of the README.
 
 ## Demo
 
-nonde
-
 ## Questions
 
-GitHub: edgarpena74
+GitHub: https://github.com/edgarpena74
+<br>
 Email: edgarpena0740@gmail.com
 
 ## License
