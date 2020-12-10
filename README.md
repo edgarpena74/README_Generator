@@ -1,16 +1,16 @@
-# undefined
+# README_Generator
 
 ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 ## Description
 
-undefined
+This is an application that allows the user to generate a README.md file within the Visual Studio Code terminal.
 
 ## Table of Contents
 
 - [Installation Instructions](#Installation_Instructions)
 - [usage Information](#Usage_Information)
-- [Demo](#Demo)
+- [Tests](#Tests)
 - [Questions](#Questions)
 - [License](#License)
 - [Contributers](#contributers)
@@ -23,14 +23,14 @@ Open the project in Visual Studio Code. Then open a terminal to run "node index.
 
 After running "node index.js" enter information for each section of the README.
 
-## Demo
+## Tests
 
-<iframe src="https://drive.google.com/file/d/1_dAVHMEKI_n4daD8cak5XroT5Way6VVk/preview" width="640" height="480"></iframe>
+nonde
 
 ## Questions
 
-edgarpena74
-edgarpena0740@gmail.com
+GitHub: edgarpena74
+Email: edgarpena0740@gmail.com
 
 ## License
 

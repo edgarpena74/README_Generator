@@ -4,18 +4,19 @@ const inquirer = require("inquirer");
 //fs is file system
 const fs = require("fs");
 const path = require("path");
+
 const generateMarkdown = require("./utils/generateMarkdown");
 const Choices = require("inquirer/lib/objects/choices");
 // array of questions for user
 const questions = [
     {
         type:"input",
-        name:"Title",
+        name:"title",
         message: "what is the projects title?"
     },
     {
         type:"input",
-        name:"Description",
+        name:"description",
         message: "Describe the project:"
     },
     {

@@ -24,8 +24,10 @@ ${data.usage}
 ${data.test}
 
 ## Questions
-${data.questions}
-${data.email}
+
+GitHub: ${data.questions}
+Email: ${data.email}
+
 
 ## License
 ${data.license}
