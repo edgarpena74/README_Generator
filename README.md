@@ -24,7 +24,8 @@ Open the project in Visual Studio Code. Then open a terminal to run "node index.
 After running "node index.js" enter information for each section of the README.
 
 ## Demo
-<iframe src="https://drive.google.com/file/d/1_dAVHMEKI_n4daD8cak5XroT5Way6VVk/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1_dAVHMEKI_n4daD8cak5XroT5Way6VVk/preview
+
 ## Questions
 
 GitHub: https://github.com/edgarpena74
